@@ -1,2 +1,2 @@
-# studies
+# Studies
 Repository for developing studies
